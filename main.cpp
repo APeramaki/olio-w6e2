@@ -7,6 +7,4 @@ int main(int argc, char *argv[])
 
     ExampleClass ec = ExampleClass();
     ec.startToWait();
-
-    return a.exec();
 }
